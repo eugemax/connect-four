@@ -1,2 +1,2 @@
 # connect-four
-Connect four game
+Connect four game as codewars kata
